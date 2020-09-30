@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'unpu$n-ppnld0fsca4v19+#r@p@4s(g20*%d3y+r7#mt^ct=p3'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False # Now you can run app in the local server
 
 ALLOWED_HOSTS = []
 
